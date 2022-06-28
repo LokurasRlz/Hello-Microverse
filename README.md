@@ -1,10 +1,10 @@
-Hello Microverse
+# Hello Microverse
 
 In this project, I set up a "Hello world" repository. No complex coding was required for this exercise. Our goal here is to master all of the tools and best practices we learned about in previous steps..
 
 
 
-Builted With
+## Builted With
 
 -GitHub
 
@@ -17,8 +17,7 @@ Builted With
 
 
 
-
-Learning Objectives
+## Learning Objectives
 
 -Create branches with different base branches.
 
@@ -38,16 +37,30 @@ Learning Objectives
 
 
 
-For this project, we had to get familiar with Github Actions applying Linters to learn how to have cleaner and more profesional codes. Also we had to create a .gitignore file and practice adding new branches to the main repository. 
-
-I hope that it fulfill your espectations.
 
 
-GitHub: @lokurasrlz
-LinkedIn: https://www.linkedin.com/in/matias-aguirre-ab51a623a/
-Twitter: @lokurasrlz
-Instagram: @aguirremati09
-👤 Matias Aguirre
+**For this project, we had to get familiar with Github Actions applying Linters to learn how to have cleaner and more profesional codes. Also we had to create a .gitignore file and practice adding new branches to the main repository.** 
+
+
+
+
+
+## I hope that it fulfill your espectations.
+
+
+
+
+
+👤 **Matias Aguirre**
+
+-GitHub: @lokurasrlz
+
+-LinkedIn: https://www.linkedin.com/in/matias-aguirre-ab51a623a/
+
+-Twitter: @lokurasrlz
+
+-Instagram: @aguirremati09
+
 
 
 🤝 Contributing
